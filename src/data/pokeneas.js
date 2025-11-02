@@ -4,7 +4,7 @@ module.exports = [
         nombre: "Arriño",
         altura: "0.6m",
         habilidad: "Saltar charcos",
-        imagen: "arriño.png",
+        imagen: "arriño.jpg",
         frase: "La curiosidad abre puertas.",
     },
     {
@@ -12,7 +12,7 @@ module.exports = [
         nombre: "Montilli",
         altura: "1.1m",
         habilidad: "Camuflaje",
-        imagen: "montilli.png",
+        imagen: "montilli.jpg",
         frase: "La calma encuentra camino.",
     },
     {
@@ -20,7 +20,7 @@ module.exports = [
         nombre: "Fulanito",
         altura: "1.5m2",
         habilidad: "Chisme",
-        imagen: "fulanito.png",
+        imagen: "fulanito.jpg",
         frase: "La ignorancia lleva al miedo.",
     },
     {
@@ -28,7 +28,7 @@ module.exports = [
         nombre: "Misterio",
         altura: "0.4m",
         habilidad: "Silencio",
-        imagen: "misterio.png",
+        imagen: "misterio.jpg",
         frase: "Aunque estés solo, no debes decir ni hacer nada malo.",
     },
     {
@@ -36,7 +36,7 @@ module.exports = [
         nombre: "Zamba",
         altura: "1.0m",
         habilidad: "Bailar",
-        imagen: "zamba.png",
+        imagen: "zamba.jpg",
         frase: "Yo no soy una gota en el océano, yo soy el océano en una gota.",
     },
     {
@@ -44,7 +44,7 @@ module.exports = [
         nombre: "Diosano",
         altura: "2.0m",
         habilidad: "Ver el futuro",
-        imagen: "diosano.png",
+        imagen: "diosano.jpg",
         frase: "No es lo que te ocurre, sino cómo reaccionas lo que importa.",
     },
     {
@@ -52,7 +52,7 @@ module.exports = [
         nombre: "Vinicius",
         altura: "1.8m",
         habilidad: "Fuerza",
-        imagen: "vinicius.png",
+        imagen: "vinicius.jpg",
         frase: "El que se conquista a sí mismo es un vencedor mayor que quien conquista a mil hombres mil veces en batalla.",
     },
     {
@@ -60,7 +60,7 @@ module.exports = [
         nombre: "Farfan",
         altura:"1.5m",
         habilidad: "Volar",
-        imagen: "farfan.png",
+        imagen: "farfan.jpg",
         frase: "Si quieres algo que nunca tuviste, debes hacer algo que nunca hiciste.",
     },
     {
@@ -68,7 +68,7 @@ module.exports = [
         nombre: "Gaston",
         altura: "1.6m",
         habilidad: "Invisibilidad",
-        imagen: "gaston.png",
+        imagen: "gaston.jpg",
         frase: "Al final no son los años en nuestra vida lo que cuenta, sino la vida en nuestros años.",
     },
     {
@@ -76,7 +76,7 @@ module.exports = [
         nombre: "Hercules",
         altura: "2.2m",
         habilidad: "Viaje en el tiempo",
-        imagen: "hercules.png",
+        imagen: "hercules.jpg",
         frase: "Somos más sinceros cuando estamos iracundos que cuando estamos tranquilos.",
     },
   ];
